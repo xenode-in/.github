@@ -1,7 +1,7 @@
 # Xenode
 
 <p align="center">
-  <img src="./assets/image.png" alt="Xenode Logo" width="120" />
+  <img src="../assets/image.png" alt="Xenode Logo" width="120" />
 </p>
 
 <h3 align="center">
